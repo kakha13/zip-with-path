@@ -1,9 +1,9 @@
 # Zip With Path
 <img src="logo.png" alt="Logo" width="256">
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/kakha13.vscode-zip-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/kakha13.vscode-zip-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/kakha13.vscode-zip-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
 
 Zip files and folders directly from VS Code explorer with full path preservation or simplified structure options.
 
