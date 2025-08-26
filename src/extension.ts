@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 import * as path from 'path';
 import * as fs from 'fs';
-import * as archiver from 'archiver';
+import archiver from 'archiver';
 
 export function activate(context: vscode.ExtensionContext) {
     console.log('VS Code Zip Path extension is now active!');
@@ -137,7 +137,7 @@ async function zipResource(uri: vscode.Uri, type: 'file' | 'folder' | 'workspace
                     resolve();
                 });
 
-                archive.on('error', (err) => {
+                archive.on('error', (err: Error) => {
                     reject(err);
                 });
 
@@ -203,7 +203,7 @@ async function zipMultipleResources(uris: vscode.Uri[], preservePath: boolean = 
                     resolve();
                 });
 
-                archive.on('error', (err) => {
+                archive.on('error', (err: Error) => {
                     reject(err);
                 });
 

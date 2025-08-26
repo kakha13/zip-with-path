@@ -1,9 +1,9 @@
 # Zip With Path
 <img src="logo.png" alt="Logo" width="256">
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.zip-with-path)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.zip-with-path)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.zip-with-path)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/kakha13.zip-with-path.svg)](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
 
 Zip files and folders directly from VS Code explorer with full path preservation or simplified structure options.
 
@@ -35,7 +35,7 @@ Result: Button.zip contains → Button.tsx
 ### 🔄 Multiple Selection Support
 Select multiple files and folders (Ctrl+Click) for batch zipping:
 
-![Multiple Selection](https://via.placeholder.com/600x300/2d2d30/ffffff?text=Multiple+Selection+Support)
+![Multiple Selection](demo-context-menu.png)
 
 ### ⚡ Features at a Glance
 
@@ -80,7 +80,7 @@ Select multiple files and folders (Ctrl+Click) for batch zipping:
 4. Click **Install**
 
 ### From Marketplace Website
-[**Download from VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=kakha13.zip-with-path)
+[**Download from VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
 
 ### Manual Installation
 1. Download the `.vsix` file from [Releases](https://github.com/kakha13/zip-with-path/releases)
@@ -150,7 +150,7 @@ Right-click src/ folder:
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/kakha13/zip-with-path/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/kakha13/zip-with-path/discussions)
-- ⭐ **Rate & Review**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kakha13.zip-with-path)
+- ⭐ **Rate & Review**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kakha13.vscode-zip-path)
 
 ## Release Notes
 
